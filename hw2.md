@@ -19,8 +19,7 @@
 ## 甘特圖:
 ```mermaid
 gantt
-    title 程式開發
-    
+        
     section 任務
     研擬計畫:a1, 2022-10-03,1d
     任務分配:a2, after a1,4d
