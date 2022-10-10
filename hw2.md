@@ -13,7 +13,7 @@
 |11|使用者測試|25|9、10|
 
 ## PERT/CPM 圖和關鍵路徑:
-![PERT CPM](PERT CPM圖.png "PERT CPM圖")
+![PERT CPM](PERT CPM圖.PNG "PERT CPM圖")
 
 ```mermaid
 gantt
